@@ -1,0 +1,15 @@
+D:\Docencia\C3-2024\Patrones\Patrones\bin\Debug\net8.0\Patrones.exe
+D:\Docencia\C3-2024\Patrones\Patrones\bin\Debug\net8.0\Patrones.deps.json
+D:\Docencia\C3-2024\Patrones\Patrones\bin\Debug\net8.0\Patrones.runtimeconfig.json
+D:\Docencia\C3-2024\Patrones\Patrones\bin\Debug\net8.0\Patrones.dll
+D:\Docencia\C3-2024\Patrones\Patrones\bin\Debug\net8.0\Patrones.pdb
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.AssemblyInfoInputs.cache
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.AssemblyInfo.cs
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.csproj.CoreCompileInputs.cache
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.sourcelink.json
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.dll
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\refint\Patrones.dll
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.pdb
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\Patrones.genruntimeconfig.cache
+D:\Docencia\C3-2024\Patrones\Patrones\obj\Debug\net8.0\ref\Patrones.dll
