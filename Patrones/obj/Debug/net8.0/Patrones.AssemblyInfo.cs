@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Patrones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2968bce080771e55e58924db0b6a6aeeda0e1631")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2567b9fdf69acd48cb02a6cbb42c488d7d62cca1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Patrones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Patrones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

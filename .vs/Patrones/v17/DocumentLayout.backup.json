@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|d:\\docencia\\c3-2024\\patrones\\patrones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|solutionrelative:patrones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|d:\\docencia\\c3-2024\\patrones\\patrones\\consultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|solutionrelative:patrones\\consultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|d:\\docencia\\c3-2024\\patrones\\patrones\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|solutionrelative:patrones\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|d:\\docencia\\c3-2024\\patrones\\patrones\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|solutionrelative:patrones\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Empleado.cs",
+              "RelativeDocumentMoniker": "Patrones\\Empleado.cs",
+              "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Empleado.cs",
+              "RelativeToolTip": "Patrones\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:21:13.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consultor.cs",
+              "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Consultor.cs",
+              "RelativeDocumentMoniker": "Patrones\\Consultor.cs",
+              "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Consultor.cs",
+              "RelativeToolTip": "Patrones\\Consultor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:21:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Gerente.cs",
+              "RelativeDocumentMoniker": "Patrones\\Gerente.cs",
+              "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Gerente.cs",
+              "RelativeToolTip": "Patrones\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:21:31.698Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +73,7 @@
               "RelativeDocumentMoniker": "Patrones\\Program.cs",
               "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Program.cs",
               "RelativeToolTip": "Patrones\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-04T19:59:29.823Z",
               "EditorCaption": ""

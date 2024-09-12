@@ -12,8 +12,13 @@
     {
         static void Main(string[] args)
         {
-            var empleado = new Empleado("Juan");
-            Console.WriteLine($"Hola, {empleado.Nombre}");
+            Empleado empleado = new("Juan", 10, 10);
+            Consultor consultor = new("Pedro", 5, 10);
+            Gerente gerente = new("Maria", 50, 10);
+
+            Console.WriteLine(empleado.CalcularSalario());
+            Console.WriteLine(consultor.CalcularSalario());
+            Console.WriteLine(gerente.CalcularSalario());
         }
     }
 }
