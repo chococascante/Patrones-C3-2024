@@ -3,9 +3,18 @@
 
 public class Empleado
 {
-    public string Nombre { get; set; }
-    public Empleado(string pNombre)
+    public string Nombre;
+    public int HorasTrabajadas;
+    public decimal TarifaPorHora;
+    public Empleado(string nombre, int horasTrabajadas, decimal tarifaPorHora)
 	{
-        Nombre = pNombre;
+        Nombre = nombre;
+        HorasTrabajadas = horasTrabajadas;
+        TarifaPorHora = tarifaPorHora;
+    }
+
+    public virtual decimal CalcularSalario()
+    {
+        return HorasTrabajadas * TarifaPorHora;
     }
 }
