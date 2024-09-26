@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Docencia\\C3-2024\\Patrones\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4B1C192-26EE-4177-A948-28C7CA256675}|PatronesCreacionales\\PatronesCreacionales.csproj|d:\\docencia\\c3-2024\\patrones\\patronescreacionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1C192-26EE-4177-A948-28C7CA256675}|PatronesCreacionales\\PatronesCreacionales.csproj|solutionrelative:patronescreacionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1C192-26EE-4177-A948-28C7CA256675}|PatronesCreacionales\\PatronesCreacionales.csproj|d:\\docencia\\c3-2024\\patrones\\patronescreacionales\\practicasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1C192-26EE-4177-A948-28C7CA256675}|PatronesCreacionales\\PatronesCreacionales.csproj|solutionrelative:patronescreacionales\\practicasingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B1C192-26EE-4177-A948-28C7CA256675}|PatronesCreacionales\\PatronesCreacionales.csproj|d:\\docencia\\c3-2024\\patrones\\patronescreacionales\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4B1C192-26EE-4177-A948-28C7CA256675}|PatronesCreacionales\\PatronesCreacionales.csproj|solutionrelative:patronescreacionales\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52E75ED1-B739-45DA-AC16-0599D93688E1}|PrincipiosDiseno\\PrincipiosDiseno.csproj|d:\\docencia\\c3-2024\\patrones\\principiosdiseno\\ejercicio1abstraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52E75ED1-B739-45DA-AC16-0599D93688E1}|PrincipiosDiseno\\PrincipiosDiseno.csproj|solutionrelative:principiosdiseno\\ejercicio1abstraccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|d:\\docencia\\c3-2024\\patrones\\patrones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1593EABD-3DD9-4E91-ACCB-0737BC3EFE21}|Patrones\\Patrones.csproj|solutionrelative:patrones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\PatronesCreacionales\\Program.cs",
+              "RelativeDocumentMoniker": "PatronesCreacionales\\Program.cs",
+              "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\PatronesCreacionales\\Program.cs",
+              "RelativeToolTip": "PatronesCreacionales\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:36:11.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticaSingleton.cs",
+              "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\PatronesCreacionales\\PracticaSingleton.cs",
+              "RelativeDocumentMoniker": "PatronesCreacionales\\PracticaSingleton.cs",
+              "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\PatronesCreacionales\\PracticaSingleton.cs",
+              "RelativeToolTip": "PatronesCreacionales\\PracticaSingleton.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:10:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\PatronesCreacionales\\Singleton.cs",
+              "RelativeDocumentMoniker": "PatronesCreacionales\\Singleton.cs",
+              "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\PatronesCreacionales\\Singleton.cs",
+              "RelativeToolTip": "PatronesCreacionales\\Singleton.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:28:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Ejercicio1Abstraccion.cs",
+              "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\PrincipiosDiseno\\Ejercicio1Abstraccion.cs",
+              "RelativeDocumentMoniker": "PrincipiosDiseno\\Ejercicio1Abstraccion.cs",
+              "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\PrincipiosDiseno\\Ejercicio1Abstraccion.cs",
+              "RelativeToolTip": "PrincipiosDiseno\\Ejercicio1Abstraccion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:59:09.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Empleado.cs",
               "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Empleado.cs",
               "RelativeDocumentMoniker": "Patrones\\Empleado.cs",
@@ -42,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Consultor.cs",
               "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Consultor.cs",
               "RelativeDocumentMoniker": "Patrones\\Consultor.cs",
@@ -50,12 +118,11 @@
               "RelativeToolTip": "Patrones\\Consultor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:21:45.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T00:21:45.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Gerente.cs",
               "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Gerente.cs",
               "RelativeDocumentMoniker": "Patrones\\Gerente.cs",
@@ -67,16 +134,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Program.cs",
               "RelativeDocumentMoniker": "Patrones\\Program.cs",
               "ToolTip": "D:\\Docencia\\C3-2024\\Patrones\\Patrones\\Program.cs",
               "RelativeToolTip": "Patrones\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T19:59:29.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-04T19:59:29.823Z"
             }
           ]
         }

@@ -1,0 +1,12 @@
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\bin\Debug\net8.0\PatronesCreacionales.deps.json
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\bin\Debug\net8.0\PatronesCreacionales.dll
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\bin\Debug\net8.0\PatronesCreacionales.pdb
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\PatronesCreacionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\PatronesCreacionales.AssemblyInfoInputs.cache
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\PatronesCreacionales.AssemblyInfo.cs
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\PatronesCreacionales.csproj.CoreCompileInputs.cache
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\PatronesCreacionales.sourcelink.json
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\PatronesCreacionales.dll
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\refint\PatronesCreacionales.dll
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\PatronesCreacionales.pdb
+D:\Docencia\C3-2024\Patrones\PatronesCreacionales\obj\Debug\net8.0\ref\PatronesCreacionales.dll
