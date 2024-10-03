@@ -69,17 +69,17 @@ namespace PatronesCreacionales
             }
         }
     }
-        public class Jugador
+    public class Jugador
+    {
+        public string Nombre { get; set; }
+        public int Puntaje { get; set; }
+
+        public Jugador(string nombre)
         {
-            public string Nombre { get; set; }
-            public int Puntaje { get; set; }
-
-            public Jugador(string nombre)
-            {
-                Nombre = nombre;
-            }
-
+            Nombre = nombre;
         }
+
+    }
     public class Enemigo
     {
         public string Nombre { get; set; }

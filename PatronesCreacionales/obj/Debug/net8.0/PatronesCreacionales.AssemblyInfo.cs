@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatronesCreacionales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f8b1ed83484efd8b81b353306125337451ce65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0709e57f67e76e9c82487c64073c99d9be014847")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatronesCreacionales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatronesCreacionales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
